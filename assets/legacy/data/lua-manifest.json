@@ -1,0 +1,48 @@
+{
+  "globals": [
+    "scripts/botplay bop.lua",
+    "scripts/camera focus.lua",
+    "scripts/camera.lua",
+    "scripts/font.lua",
+    "scripts/gf sus.lua",
+    "scripts/gradient.lua",
+    "scripts/iconbop.lua",
+    "scripts/new health bar.lua",
+    "scripts/size and y.lua",
+    "scripts/you bruh.lua"
+  ],
+  "stages": {
+    "basyaworld-n": "stages/basyaworld-n.lua",
+    "basyaworld": "stages/basyaworld.lua"
+  },
+  "songs": {
+    "noobing": [
+      "data/noobing/events on lua.lua",
+      "data/noobing/gf sus.lua",
+      "data/noobing/title.lua"
+    ],
+    "sponge": [
+		"data/sponge/gf sus.lua",
+		"data/sponge/title.lua"
+	],
+    "fightcraft": [
+      "data/fightcraft/events on lua.lua",
+      "data/fightcraft/gf sus.lua",
+      "data/fightcraft/script.lua",
+      "data/fightcraft/title.lua",
+      "data/fightcraft/unfinished.lua"
+    ],
+    "noob-pro-skill": [
+      "data/noob-pro-skill/cam.lua",
+      "data/noob-pro-skill/events on lua.lua",
+      "data/noob-pro-skill/gf sus.lua",
+      "data/noob-pro-skill/script.lua",
+      "data/noob-pro-skill/title.lua",
+      "data/noob-pro-skill/unfinished.lua"
+    ]
+  },
+  "events": {
+    "Cam Boom Speed": "custom_events/Cam Boom Speed.lua",
+    "Set Cam Zoom": "custom_events/Set Cam Zoom.lua"
+  }
+}
